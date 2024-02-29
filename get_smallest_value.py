@@ -7,5 +7,6 @@ def get_smallest_value(array, value_count):
     return resultArray
 
 myArr = [3, 34324, 12, 231231, 0.2, 1.32, 78]
+
 result = get_smallest_value(myArr, 1)
 print(result)
